@@ -1,0 +1,6 @@
+@JoggingTrackerWebApi_HostAddress = http://localhost:5190
+
+GET {{JoggingTrackerWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
